@@ -125,7 +125,7 @@ x[:, 1] = (x[:, 1] - x[:, 1].mean()) / x[:, 1].std()
 # OUTPUT:
 <img width="521" height="536" alt="image" src="https://github.com/user-attachments/assets/b5af2a9e-c246-4169-8749-b91aa8ddd157" />
 <img width="717" height="549" alt="image" src="https://github.com/user-attachments/assets/658e0637-509a-4fed-ad2f-157d5614372c" />
-<img width="717" height="549" alt="image" src="https://github.com/user-attachments/assets/9bcc087a-ecba-414c-9d3a-aaa84db262e8" />
+<img width="753" height="556" alt="image" src="https://github.com/user-attachments/assets/c7baeaf2-27a8-4748-a134-7bf72e8e9d93" />
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
